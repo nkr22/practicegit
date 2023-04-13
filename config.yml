@@ -4,4 +4,4 @@ defaults:
       type: "html"
     values:
       layout: "default"
-      permalink: "/about"
+      permalink: "/about.html"
